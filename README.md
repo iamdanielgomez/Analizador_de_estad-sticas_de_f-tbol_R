@@ -214,7 +214,7 @@ Permite trabajar con estructuras de datos, programación funcional, ciclos, func
 
 ## 👨‍💻 Autor
 
-**[Tu nombre aquí]**
+**Daniel Gomez**
 
 Proyecto académico desarrollado en RStudio.
 
